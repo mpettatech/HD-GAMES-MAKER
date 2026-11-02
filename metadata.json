@@ -1,0 +1,8 @@
+{
+  "name": "HD Externo 1TB PS4 Desbloqueado - Monte sua Biblioteca de Jogos",
+  "description": "Personalize e monte seu HD Externo 1TB para PS4 desbloqueado. Escolha entre mais de 100 jogos, controle a capacidade em tempo real e exporte sua lista em Excel ou TXT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
